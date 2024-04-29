@@ -6,11 +6,11 @@
     "@types/inquirer": "^9.0.7"
   },
   "name": "farooqui-word-counter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "type": "module",
   "publishConfig": {"access": "public"},
-  "bin": "word.ts",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
